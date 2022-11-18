@@ -36,3 +36,20 @@
     transform: rotate(360deg);
   }
 }
+.nav{
+  background-color: cyan;
+}
+.row{
+  margin:20px 10%;
+}
+.card{
+  margin:10px 0;
+}
+.button{
+  margin:90px;
+  display: flex;
+  justify-content: space-between; 
+}
+.text-muted{
+  margin-bottom:15px;
+}
